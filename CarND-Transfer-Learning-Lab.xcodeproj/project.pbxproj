@@ -35,7 +35,8 @@
 			buildConfigurationList = 6E4012BA1E749E85008E57C1 /* Build configuration list for PBXLegacyTarget "CarND-Transfer-Learning-Lab" */;
 			buildPhases = (
 			);
-			buildToolPath = "/Users/anoop/Documents/Self-Driving-Car-ND/Term1/CarND-Transfer-Learning-Lab";
+			buildToolPath = "//anaconda/envs/Anaconda3Env/bin/python";
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = "CarND-Transfer-Learning-Lab";

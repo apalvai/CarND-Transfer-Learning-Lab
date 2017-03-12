@@ -4,4 +4,6 @@ models
 bottlenecks
 *xcuserdata
 vgg-100
+inception-100
+resnet-100
 
